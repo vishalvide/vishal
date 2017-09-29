@@ -1,5 +1,5 @@
 # hello world
-print("Enter the two numbers: ")
+print("Enter the two numbers:")
 a=int(input())
 b=int(input())
 sum=a+b
@@ -11,4 +11,7 @@ y=input("Enter your password: ")
 y=str(y)
 if(y=="psk"):
   print("Access granted")
+ 
+ 
+
   
